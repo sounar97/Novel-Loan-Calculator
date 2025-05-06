@@ -55,23 +55,7 @@ A responsive web application that calculates loan EMIs with amortization schedul
    npm start
    ```
 
-## Project Structure
 
-src/
-├── components/          # Reusable components
-│   ├── AmortizationTable.js
-│   └── Navbar.js
-├── context/             # Global state management
-│   └── AppContext.js
-├── hooks/               # Custom hooks
-│   ├── useEmiCalculator.js
-│   └── useExchangeRate.js
-├── pages/               # Application pages
-│   ├── About.js
-│   ├── ErrorPage.js
-│   ├── ExchangeRates.js
-│   ├── Home.js
-│   └── NotFound.js
 
 
 
