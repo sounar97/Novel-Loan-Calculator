@@ -74,8 +74,5 @@ src/
 │   └── NotFound.js
 
 
-## Live Demo
-
-🚀 [View Live Demo](https://sounovel-loan-calculator.netlify.app/) <!-- Insert your live demo link here -->
 
 
